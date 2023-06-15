@@ -34,7 +34,7 @@ deleteItem(){
 onFormSubmit(e){
     e.preventDefault();
 }
-
+//We use tag <form> </form> so ENTER button automatically connects to input
 render() {
 
     return(<div>
